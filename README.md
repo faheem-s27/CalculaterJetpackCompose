@@ -1,4 +1,4 @@
-# Calculator Jetpack Compose
+# Calculon Jetpack Compose
 
 This is a simple calculator application built with Jetpack Compose, the modern toolkit for building native Android UI.
 <div align="center">
