@@ -2,6 +2,12 @@
 
 This is a simple calculator application built with Jetpack Compose, the modern toolkit for building native Android UI.
 
+![image3](https://github.com/faheem-s27/CalculaterJetpackCompose/assets/63436748/3aec0e46-7b38-4b72-bc3e-d8f626b80bd0)
+![image0](https://github.com/faheem-s27/CalculaterJetpackCompose/assets/63436748/064c2254-0ff2-4aff-9167-608a19f8af31)
+![image2](https://github.com/faheem-s27/CalculaterJetpackCompose/assets/63436748/b7262386-26f6-4118-8432-cca75df435e1)
+![image1 (2)](https://github.com/faheem-s27/CalculaterJetpackCompose/assets/63436748/d44c0ef6-9e60-4179-8a23-f83c1ce7e8b4)
+
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
