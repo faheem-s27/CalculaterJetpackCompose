@@ -1,17 +1,23 @@
 # Calculator Jetpack Compose
 
 This is a simple calculator application built with Jetpack Compose, the modern toolkit for building native Android UI.
+
+
+## Features
+
+- **Lightning-fast calculations:** Addition, subtraction, multiplication, division? Done in a snap! ⚡️
+- **Dynamically adapts to your theme:** Light or dark mode, Calculon flows with your style.
+- **Clear & delete with ease:** Oops? No problem! Undo mistakes effortlessly. 🪄
+- **Minimal & intuitive UI:** Focus on what matters - the numbers!
+- **Built with Kotlin & Jetpack Compose:** Cutting-edge technology for a smooth experience.
+
 Dark Mode | Light Mode
 --- | ---
 ![image3](https://github.com/faheem-s27/CalculaterJetpackCompose/assets/63436748/3aec0e46-7b38-4b72-bc3e-d8f626b80bd0) | ![image2](https://github.com/faheem-s27/CalculaterJetpackCompose/assets/63436748/b7262386-26f6-4118-8432-cca75df435e1)
 ![image0](https://github.com/faheem-s27/CalculaterJetpackCompose/assets/63436748/a74e3901-36bf-4a5a-80fb-ef65d072b4dd) | ![image1 (2)](https://github.com/faheem-s27/CalculaterJetpackCompose/assets/63436748/d44c0ef6-9e60-4179-8a23-f83c1ce7e8b4)
 
 
-## Features
 
-- Basic arithmetic operations: addition, subtraction, multiplication, and division.
-- Dynamic theme based on system settings.
-- Clear and delete functionality.
 
 ## Tech Stack
 
